@@ -1,6 +1,20 @@
-# exquisite-corpse-app
+# Exquisite Corpse
 
 Necromancy!
+
+## Okay, not really necromancy
+
+Exquisite Corpse was a (probaby pretentious) game invented by surrealists as a fun diversion, and probably an appropriate activity for drinking absinthe until the sun came up.
+
+The game is played by writing a sentence or two on a piece of paper, then concealing all but the last few words and handing to paper to someone else. Once everyone has contributed, the full composition is revealed, to the delight of everyone present.
+
+There's also a drawing version of the game, but that's not important right now.
+
+This app attempts to recreate the game without the benefits of pen, paper, or proximity. It's a project I first created way back in 2017, when I was graduating for an intensive 12-week code school. I know a lot more now, and also there is a ton of new tech.
+
+Let's see what I can do!
+
+## Other stuff
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
@@ -9,13 +23,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
